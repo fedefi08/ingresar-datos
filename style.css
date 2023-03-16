@@ -1,0 +1,49 @@
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 120px;
+    background-color: #FF6E26;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+
+}
+
+.contenedor{
+    padding: 20px;
+    align-self: center;
+    width: px;
+    height: 500px;
+    border-radius: 30px;
+    background-image:url(https://img.freepik.com/free-vector/abstract-organic-lines-background_1017-26669.jpg?w=900&t=st=1679008764~exp=1679009364~hmac=ebc2bc8610bd2538425a0e9c673092695bd7e8f66971ca0b6784613f088266cf);
+    }
+label, input{
+    margin: 5px;
+    background-color: ;
+    border-radius: 25px;
+    color: blueviolet;
+}
+
+button{
+    margin: 20px;
+    width: 80px;
+    border-radius: 25px;
+    color: blueviolet;
+}
+
+h1 , p{
+color: blueviolet;
+}
+
+
+
